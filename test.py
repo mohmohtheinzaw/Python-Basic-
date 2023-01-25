@@ -6,3 +6,8 @@ def greet():
 
 
 greet()
+
+print ("adsfadsf")
+print ("adsfadsf")
+print ("adsfadsf")
+print ("adsfadsf")
